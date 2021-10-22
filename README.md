@@ -12,13 +12,13 @@ As a result of these new changes any individual visiting the site can search for
 criteria for example:
 
 -Date, State:
-![Date_State]()
+![Date_State](https://github.com/Tbrads325/UFOs/blob/main/result_images/Date_State.png)
 -State, Country:
-![State_Country]()
+![State_Country](https://github.com/Tbrads325/UFOs/blob/main/result_images/State_Country.png)
 -Shape, State:
-![Shape_State]()
+![Shape_State](https://github.com/Tbrads325/UFOs/blob/main/result_images/Shape_State.png)
 -Shape, State, Country:
-![Shape_State_Country]()
+![Shape_State_Country](https://github.com/Tbrads325/UFOs/blob/main/result_images/Shape_State_Country.png)
 ## Summary
 
 ### Drawback:
